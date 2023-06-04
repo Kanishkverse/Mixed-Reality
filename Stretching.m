@@ -1,7 +1,7 @@
 
 close all
 clear
-
+%you can change the image file as you want
 image = imread('apple_1_1_1.png');
 
 [x, y, z] = size(image); % for RGB z = 3
