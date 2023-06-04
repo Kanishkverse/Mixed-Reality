@@ -1,0 +1,1 @@
+Assignment 1 : You are required to write a MATLAB script which reads, converts a color image into grayscale image, and performs the histogram stretching on the grayscale one. Note that you are not allowed to use available built-in functions such as imadjust, instead you have to implement a function to do histogram stretching
